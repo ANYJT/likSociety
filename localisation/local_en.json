@@ -1,4 +1,17 @@
 {
-  "menu.title": "Choose an action:",
-  "menu.example": "..."
+  "menu.back": "Back",
+  "menu.exit": "Exit",
+  "menu.wrong_choice": "No such option, try again",
+  "menu.in_progress": "In progress...",
+  "menu.prompt": "> ",
+
+  "menu.main.title": "Choose an action:",
+  "menu.main.tools": "Tools",
+  "menu.main.info": "Information",
+  "menu.main.donate": "Support the creator",
+
+  "menu.tools.title": "Tools:",
+  "menu.tools.first": "First tool",
+
+  "menu.info.title": "Information:"
 }

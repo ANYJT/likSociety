@@ -12,5 +12,4 @@ if __name__ == "__main__":
         screen.show_logo()
         screen.wait_key()
         loc = Localisation(config.language)  # внутри Screen, чтобы ошибка локализации была видна под лого
-        MainMenu(loc).show()
-        input()
+        MainMenu(loc, screen).run()

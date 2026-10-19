@@ -1,6 +1,17 @@
 {
-  "menu.title": "Выберите действие:",
-  "menu.tools": "1. Инструменты",
-  "menu.info": "2. Информация",
-  "menu.donate": "3. Поддержать создателя"
+  "menu.back": "Назад",
+  "menu.exit": "Выход",
+  "menu.wrong_choice": "Нет такого пункта, попробуйте ещё раз",
+  "menu.in_progress": "В разработке...",
+  "menu.prompt": "> ",
+
+  "menu.main.title": "Выберите действие:",
+  "menu.main.tools": "Инструменты",
+  "menu.main.info": "Информация",
+  "menu.main.donate": "Поддержать создателя",
+
+  "menu.tools.title": "Инструменты:",
+  "menu.tools.first": "Первый инструмент",
+
+  "menu.info.title": "Информация:"
 }

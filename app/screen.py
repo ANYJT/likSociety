@@ -86,7 +86,7 @@ class Screen:
     def show_logo(self) -> None:
         for char, is_edge in self.art:
             self.shown.append(char, style=ACCENT if is_edge else "grey30")
-            time.sleep(0.00001)
+            time.sleep(0.001)
         self.show_banner = True
 
     def clear(self) -> None:
